@@ -14,6 +14,8 @@ function scuberGreetingForFeet(feet)  {
 }
 
 function ternaryCheckCity(city) {
+  let location
+
   if (city === "NYC") {
     return "Ok, sounds good."
   }
