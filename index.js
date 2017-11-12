@@ -18,6 +18,8 @@ function ternaryCheckCity(city) {
 
   city === "NYC" ? location = true : false
 
+  location;
+
 function switchOnCharmFromTip(tip) {
   let generous
 
