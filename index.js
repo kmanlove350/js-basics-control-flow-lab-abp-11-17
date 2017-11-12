@@ -27,7 +27,7 @@ function switchOnCharmFromTip(tip) {
   let generous
 
   switch (tip) {
-    case tip === generous:
+    case 'generous':
       return "Thank you so much."
       break;
     default:
